@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DeviceInformation/app/src/main/res/drawable/progressbar_states.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DeviceInformation/app/src/main/res/layout/activity_battery.xml" value="0.17" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DeviceInformation/app/src/main/res/layout/activity_cpu.xml" value="0.15081521739130435" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DeviceInformation/app/src/main/res/layout/activity_device_idactivity.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DeviceInformation/app/src/main/res/layout/activity_display.xml" value="0.11503623188405797" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DeviceInformation/app/src/main/res/layout/activity_general.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DeviceInformation/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DeviceInformation/app/src/main/res/layout/activity_memory.xml" value="0.15081521739130435" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DeviceInformation/app/src/main/res/layout/activity_system_apps.xml" value="0.10182370820668693" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DeviceInformation/app/src/main/res/layout/activity_user_apps.xml" value="0.10182370820668693" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DeviceInformation/app/src/main/res/layout/model.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DeviceInformation/app/src/main/res/layout/modelapps.xml" value="0.10182370820668693" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DeviceInformation/app/src/main/res/layout/towrow.xml" value="0.12771739130434784" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
